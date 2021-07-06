@@ -1,0 +1,2 @@
+### Cách để tạo database diagrams trong MySQL Workbench 8.0 CE
+Database > Reverse Engineer > Stored Connection chọn instance đang chạy > Next > Ngay mục Select Schemas chọn database mình muốn > Next > check vào Imports MySQL Objects nếu chưa check > Execute > Finish
